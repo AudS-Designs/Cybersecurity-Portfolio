@@ -1,2 +1,11 @@
 # Cybersecurity-Portfolio
-This is a prtfolio diplaying al my progress and achievements I accomplished during my Cybersecurity development class while enrolled at City f Refuge Cybersecurity bootcamp Prject 2025(August)
+This is a portfolio displaying all my progress and achievements I accomplished during my Cybersecurity development class while enrolled at City of Refuge Cybersecurity bootcamp Project 2025(August)
+# About Me
+Audrey Belinda Summerour Williams
+Atlanta, GA (USA)
+Prior IT Experience:
+I have no prior IT background. However, from a young age, around seven or eight, I was highly curious, often asking my aunt Lou countless questions about everything, unlike my brother, who loved playing outside and watching cartoons. I preferred staying indoors watching news programs and enjoying shows like Lucile Ball show, Carol Burnett, and Gomer Pyle. Reading was my favorite subject in elementary school, where I imagined vivid pictures through words. I had only a few close friends. When I ran away from my aunt's house at the age of thirteen, I learned my father was a construction worker, and I admired how he looked in his construction clothes, resembling a fictional character. This background. It shaped my curosity and desire to transform challenging situations into positive outcomes, beliving that technology and inventions could help me achieve my thoughts.
+Career:
+I want to dedicate my training in Cybersecurity, specifically in the areas of Cybersecurity Engineer, Ethical Hacker, Forensic Analyst, Network Security Administrator, and Security Architect. My motivations stem from a strong desire to protect the vulnerable and ensure that the powerful and ill at heart do not take advantage of the weak and less fortunate. I believe that utilizing my skills and knowledge in either of these roles. I can contribute meaningfully to the world and leave a blueprint and legacy for my children and grandchildren.
+Project Tasks:
+Around the age of twenty-five, I acquired a deep-rooted desire to own my own businesses. I started out with a vision to own my high tech convenience store featuring innovative features that were not yet on the market. To pursue this dream, I took classes and attended seminars while rasing a family and doing life. I built websites using design principles, gaining valuable knowledge, but also incurring costs due to vulnerabilities. Now I am eager to learn coding to streamline my efforts and master my passion in this part of computer science.  
